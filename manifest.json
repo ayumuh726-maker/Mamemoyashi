@@ -1,0 +1,16 @@
+{
+  "name": "Sosei Summer Festival Portal 2026",
+  "short_name": "創世夏祭り",
+  "description": "創世センター 夏祭り2026 ポータル",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ec008c",
+  "lang": "ja",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
+
